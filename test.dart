@@ -6,4 +6,8 @@ void main(){
 
 class sadad {
 }
-class asdasdasd{}
+class asdasdasd{
+  final String name;
+  final String surname;
+  asdasdasd(this.name,this.surname);
+}
