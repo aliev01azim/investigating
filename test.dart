@@ -9,6 +9,7 @@ class sadad {
 class asdasdasd{
   final String name;
   final String name2;
+  final String name3;
   final String surname;
-  asdasdasd(this.name,this.surname,this.name2);
+  asdasdasd(this.name,this.surname,this.name2,this.name3);
 }
